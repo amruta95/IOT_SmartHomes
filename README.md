@@ -1,7 +1,7 @@
 # IOT_SmartHomes
 
 This project is a Seminar on "Abnormal Behaviour Detection in Smart Homes". 
-This contains a powerpoint presentation, a report and the associated research/survey papers.
+This contains a powerpoint presentation and the associated research/survey papers.
 
 The papers (references) included are:
 
